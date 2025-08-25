@@ -13,9 +13,11 @@ You can play against the computer, and the game will instantly tell you whether 
 
 ---
 
+Site is live at https://jibachyadav.github.io/rock-paper-scissors-game/
+
 ## 📂 How to Run Locally
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/rock-scissors-paper.git
 
-   Site is live at https://jibachyadav.github.io/rock-paper-scissors-game/
+
