@@ -17,3 +17,5 @@ You can play against the computer, and the game will instantly tell you whether 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/rock-scissors-paper.git
+
+   Your site is live at https://jibachyadav.github.io/rock-paper-scissors-game/
